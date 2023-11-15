@@ -64,7 +64,7 @@ PASTAS
 
 -----------------------------------------BR_UF_2022.shp (mapa com a divisão territorial do Brasil)
 
------------------------------------------ne_10m_admin_0_countries.shp (mapa com a divisão territoria)
+-----------------------------------------ne_10m_admin_0_countries.shp (mapa com a divisão territorial)
 
 ---------------------------SCRIPTS
 
