@@ -11,7 +11,7 @@ Com objetivo de possibilitar o acesso as imagens do GOES-16, estarei disponibili
 AS IMAGENS PARA SEREM USADAS NOS SCRIPTS PODEM SER BAIXADAS NO SITE:
 https://home.chpc.utah.edu/~u0553130/Brian_Blaylock/cgi-bin/goes16_download.cgi
 
-NA PÁGINA ABERTA EM -Domain- selecione Full Disk, neste caso obtêm imagens da América do Sul. Em -Product- será selecionado a váriavel a ser analisada. Já nos campos -Date- e
+-NA PÁGINA ABERTA EM -Domain- selecione Full Disk, neste caso obtêm imagens da América do Sul. Em -Product- será selecionado a váriavel a ser analisada. Já nos campos -Date- e
 -Hour (UTC)-, seleciona a data e o horário da imagem a ser analisada, lembrando que o horário se encontra em UTC. Após selecionar os devidos campos, clicar em -Submit-, e aguardar
 o carregamento dos arquivos para download.
 
