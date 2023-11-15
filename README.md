@@ -68,3 +68,22 @@ PASTAS
 
 ---------------------------SCRIPTS
 
+-----------------------------------------AGUA_TOTAL_PRECIPITÁVEL.ipynb (Agua Precipitável presente na atmosfera)
+
+-----------------------------------------CH_13_CMI_PNMM_ECMWF.ipynb (Canal 13 + pressão atmosférica estimada pelo modelo ECMWF)
+
+-----------------------------------------CH_13_INFRAVERMELHO.ipynb (Canal 13 no infravermelho, permitindo visualizar a temperatura do topo das nuvens)
+
+-----------------------------------------CH_8_VAPOR_AGUA.ipynb (Vapor de Água visível no canal 8)
+
+-----------------------------------------CH_9_VAPOR_AGUA.ipynb (Vapor de Água visível no canal 9)
+
+-----------------------------------------DSIF_KI.ipynb (Variável K-Index)
+
+-----------------------------------------DSIF_TTI.ipynb (Variável Total Totals Index)
+
+-----------------------------------------TEMPERATURA_SUPERFICIE.ipynb (Temperatura da superfície)
+
+-----------------------------------------PRECIPITAÇÃO_ESTIMADA.ipynb (Precipitação estimada pelo satélite)
+
+-----------------------------------------GLM.ipynb (Ocorrência de raios)
